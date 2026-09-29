@@ -1,16 +1,65 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <!-- Logo / Badge -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" height="80" alt="React Logo" />
 
-Currently, two official plugins are available:
+  # 🚀 Kushal Pokhrel — Developer Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+  <p align="center">
+    A modern, responsive, and interactive personal developer portfolio built with React, Vite, and Tailwind CSS.
+  </p>
 
-## React Compiler
+  <!-- Badges -->
+  <p align="center">
+    <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+    <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-5.x-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
+    <a href="https://github.com/your-username/your-repo-name/stargazers"><img src="https://img.shields.io/github/stars/your-username/your-repo-name?style=for-the-badge&color=gold" alt="Stars" /></a>
+  </p>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  <p align="center">
+    <a href="#-key-features">Key Features</a> •
+    <a href="#-tech-stack">Tech Stack</a> •
+    <a href="#-getting-started">Getting Started</a> •
+    <a href="#-contact">Contact</a>
+  </p>
 
-## Expanding the ESLint configuration
+</div>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Key Features
+
+- ⌨️ **Interactive Hero Section:** Features a dynamic text typing effect and continuously floating skill badges.
+- 🎯 **Category Filtering:** Filter skills and project showcases seamlessly by category (Frontend, Backend, Tools).
+- 🎨 **Glassmorphism Design:** Modern dark theme aesthetics layered with subtle gradients, glows, and backdrop filters.
+- 📱 **Fully Responsive:** Smooth layout transitions optimized across desktop, tablet, and mobile displays.
+- ⚡ **High Performance:** Lightning-fast HMR and build speeds powered by Vite.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend Framework:** [React.js](https://react.dev/)
+- **Build Tool:** [Vite](https://vitejs.dev/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Icons & Visuals:** Custom CSS Keyframes & Emojis
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up and run the project locally.
+
+### Prerequisites
+
+Ensure you have **Node.js** (v16 or higher) and **npm** installed on your machine.
+
+- [Download Node.js](https://nodejs.org/)
+
+### Installation & Local Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   cd your-repo-name
